@@ -1,0 +1,7 @@
+H:\INFO200\Mileage\Mileage\bin\Debug\Mileage.exe.config
+H:\INFO200\Mileage\Mileage\bin\Debug\Mileage.exe
+H:\INFO200\Mileage\Mileage\bin\Debug\Mileage.pdb
+H:\INFO200\Mileage\Mileage\obj\Debug\Mileage.csproj.CoreCompileInputs.cache
+H:\INFO200\Mileage\Mileage\obj\Debug\Mileage.exe
+H:\INFO200\Mileage\Mileage\obj\Debug\Mileage.pdb
+H:\INFO200\Mileage\Mileage\obj\Debug\Mileage.csprojAssemblyReference.cache
