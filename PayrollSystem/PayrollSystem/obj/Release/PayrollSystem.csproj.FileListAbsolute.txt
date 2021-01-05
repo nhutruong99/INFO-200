@@ -1,0 +1,6 @@
+C:\Nhusicals\INFO 200\PayrollSystem\PayrollSystem\bin\Release\PayrollSystem.exe.config
+C:\Nhusicals\INFO 200\PayrollSystem\PayrollSystem\bin\Release\PayrollSystem.exe
+C:\Nhusicals\INFO 200\PayrollSystem\PayrollSystem\bin\Release\PayrollSystem.pdb
+C:\Nhusicals\INFO 200\PayrollSystem\PayrollSystem\obj\Release\PayrollSystem.csprojAssemblyReference.cache
+C:\Nhusicals\INFO 200\PayrollSystem\PayrollSystem\obj\Release\PayrollSystem.exe
+C:\Nhusicals\INFO 200\PayrollSystem\PayrollSystem\obj\Release\PayrollSystem.pdb
