@@ -1,0 +1,5 @@
+H:\INFO200\GLifeC\bin\Release\GLifeC.exe.config
+H:\INFO200\GLifeC\bin\Release\GLifeC.exe
+H:\INFO200\GLifeC\bin\Release\GLifeC.pdb
+H:\INFO200\GLifeC\obj\Release\GLifeC.exe
+H:\INFO200\GLifeC\obj\Release\GLifeC.pdb

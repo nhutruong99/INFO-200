@@ -1,0 +1,9 @@
+H:\INFO200\GLifeC\bin\Debug\GLifeC.exe.config
+H:\INFO200\GLifeC\bin\Debug\GLifeC.exe
+H:\INFO200\GLifeC\bin\Debug\GLifeC.pdb
+H:\INFO200\GLifeC\obj\Debug\GLifeC.csprojAssemblyReference.cache
+H:\INFO200\GLifeC\obj\Debug\GLifeC.exe
+H:\INFO200\GLifeC\obj\Debug\GLifeC.pdb
+\\stuserv.tacoma.uw.edu\ntruong9$\INFO200\GLifeC\obj\Debug\GLifeC.csprojAssemblyReference.cache
+\\stuserv.tacoma.uw.edu\ntruong9$\INFO200\GLifeC\obj\Debug\GLifeC.exe
+\\stuserv.tacoma.uw.edu\ntruong9$\INFO200\GLifeC\obj\Debug\GLifeC.pdb
